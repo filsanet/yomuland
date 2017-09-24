@@ -24,6 +24,9 @@
 # CMake
 cmake-build-debug/
 
+# maven
+target/
+
 # Mongo Explorer plugin:
 .idea/**/mongoSettings.xml
 

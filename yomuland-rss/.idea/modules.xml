@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/yomuland-rss.iml" filepath="$PROJECT_DIR$/yomuland-rss.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yomura-rss.iml" filepath="$PROJECT_DIR$/yomura-rss.iml" />
     </modules>
   </component>
 </project>
