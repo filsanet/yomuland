@@ -9,6 +9,8 @@
 
   <bean id="simpleRouteBuilder" class="filsa.yomuland.camel.SimpleRssRouteBuilder" />
   <bean id="rss2pdfRouteBuilder" class="filsa.yomuland.camel.Rss2PdfRouteBuilder" />
+  <bean id="rss2pdfBean" class="filsa.yomuland.camel.Rss2PdfBean" />
+
   <camelContext xmlns="http://camel.apache.org/schema/spring">
     <!-- here is a sample which processes the input files
          (leaving them in place - see the 'noop' flag)
