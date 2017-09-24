@@ -1,0 +1,622 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Technology.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Sun, 24 Sep 2017 09:41:43 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Push for Gender Equality in Tech? Some Men Say It&#x2019;s Gone Too Far</title>
+      <link>https://www.nytimes.com/2017/09/23/technology/silicon-valley-men-backlash-gender-scandals.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/23/technology/silicon-valley-men-backlash-gender-scandals.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/23/technology/silicon-valley-men-backlash-gender-scandals.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/23/business/00VALLEYMEN-1/00VALLEYMEN-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>James Damore was fired by Google last month after suggesting that there may be biological reasons for gender gaps in tech jobs.</media:description>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <description>After revelations of harassment and bias in Silicon Valley, a backlash is growing against the women in tech movement.</description>
+      <dc:creator>NELLIE BOWLES</dc:creator>
+      <pubDate>Sat, 23 Sep 2017 18:33:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women's Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Men and Boys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Gender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+    </item>
+    <item>
+      <title>One Surprise Standout for Uber: Food Delivery</title>
+      <link>https://www.nytimes.com/2017/09/23/technology/ubereats-food-delivery.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/23/technology/ubereats-food-delivery.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/23/technology/ubereats-food-delivery.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/25/business/23UBEREATS-6/23UBEREATS-6-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The kitchen at Footprints Cafe Express in Brooklyn, whose owner, Bob Gordon, said the UberEats delivery service had been a boon to his business. Mr. Gordon also owns Footprints Cafe, a separate location.</media:description>
+      <media:credit>Sam Hodgson for The New York Times</media:credit>
+      <description>Despite a late start, the company&#x2019;s foray into delivering food, a cutthroat $100 billion-plus service industry, eclipses ride hailing in some markets.</description>
+      <dc:creator>MIKE ISAAC</dc:creator>
+      <pubDate>Sat, 23 Sep 2017 18:56:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Postmates Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">GrubHub</category>
+    </item>
+    <item>
+      <title>Uber Loses License to Operate in London</title>
+      <link>https://www.nytimes.com/2017/09/22/business/uber-london.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/22/business/uber-london.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/22/business/uber-london.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/23/world/23Uber/23Uber-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Uber Hub in London. Transport for London, which regulates ride-hailing services in the city, said the company&#x2019;s &#x201C;approach and conduct demonstrate a lack of corporate responsibility.&#x201D;</media:description>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <description>London&#x2019;s transportation agency criticized Uber&#x2019;s corporate culture, the latest setback for a company that has faced an array of controversies this year.</description>
+      <dc:creator>PRASHANT S. RAO and MIKE ISAAC</dc:creator>
+      <pubDate>Sat, 23 Sep 2017 00:45:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+    </item>
+    <item>
+      <title>State of the Art: On Russian Meddling, Mark Zuckerberg Follows a Familiar Playbook</title>
+      <link>https://www.nytimes.com/2017/09/22/technology/mark-zuckerberg-facebook-russian-ads.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/22/technology/mark-zuckerberg-facebook-russian-ads.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/22/technology/mark-zuckerberg-facebook-russian-ads.html?partner=rss&amp;emc=rss"/>
+      <description>Mr. Zuckerberg&#x2019;s modus operandi as a leader is to fix things long after they have broken, rather than to prevent problems in the first place.</description>
+      <dc:creator>FARHAD MANJOO</dc:creator>
+      <pubDate>Fri, 22 Sep 2017 22:33:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+    </item>
+    <item>
+      <title>Facebook Drops Stock Move That Would Have Solidified Zuckerberg&#x2019;s Control</title>
+      <link>https://www.nytimes.com/2017/09/22/technology/facebook-stock-reclassification-zuckerberg-control.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/22/technology/facebook-stock-reclassification-zuckerberg-control.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/22/technology/facebook-stock-reclassification-zuckerberg-control.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/23/business/23ZUCK/23ZUCK-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mark Zuckerberg and his wife, Dr. Priscilla Chan. Mr. Zuckerberg plans to sell Facebook stock so their charitable initiative can finance work in fields like education and science.<br/><br/><br/></media:description>
+      <media:credit>Jeff Chiu/Associated Press</media:credit>
+      <description>The social network&#x2019;s board withdrew a stock reclassification proposal after a shareholder suit that would have put Mr. Zuckerberg in a courtroom.</description>
+      <dc:creator>MIKE ISAAC</dc:creator>
+      <pubDate>Sat, 23 Sep 2017 18:57:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Chan Zuckerberg Initiative LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+    </item>
+    <item>
+      <title>Editorial: Facebook&#x2019;s Belated Awakening</title>
+      <link>https://www.nytimes.com/2017/09/22/opinion/facebook-mark-zuckerberg-political-ads.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/22/opinion/facebook-mark-zuckerberg-political-ads.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/22/opinion/facebook-mark-zuckerberg-political-ads.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/23/opinion/23sat1/23sat1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Facebook&#x2019;s founder and chief executive Mark Zuckerberg.</media:description>
+      <media:credit>Andrew Esiebo for The New York Times</media:credit>
+      <description>As social media companies wield greater power in the political system, more safeguards are needed.</description>
+      <dc:creator>THE EDITORIAL BOARD</dc:creator>
+      <pubDate>Sat, 23 Sep 2017 00:18:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+    </item>
+    <item>
+      <title>Tech Tip: Resolutions for the Big (and Small) Screens</title>
+      <link>https://www.nytimes.com/2017/09/22/technology/personaltech/adjusting-video-resolutions.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/22/technology/personaltech/adjusting-video-resolutions.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/22/technology/personaltech/adjusting-video-resolutions.html?partner=rss&amp;emc=rss"/>
+      <description>Many online services now offer three levels of picture quality for videos, but be sure to choose the best one for your device.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Fri, 22 Sep 2017 16:49:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Television Sets and Media Devices</category>
+    </item>
+    <item>
+      <title>Strategies: The Best Investment Since 1926? Apple</title>
+      <link>https://www.nytimes.com/2017/09/22/business/apple-investment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/22/business/apple-investment.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/22/business/apple-investment.html?partner=rss&amp;emc=rss"/>
+      <description>Apple has generated more wealth for shareholders than any other of the top 50 companies, which account for 40 percent of stock market wealth.</description>
+      <dc:creator>JEFF SOMMER</dc:creator>
+      <pubDate>Fri, 22 Sep 2017 15:35:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telephones and Telecommunications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-multimedia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Exxon Mobil Corp</category>
+    </item>
+    <item>
+      <title>Bits: Farhad&#x2019;s and Mike&#x2019;s Week in Tech: A Very Bad Week for Digital Giants</title>
+      <link>https://www.nytimes.com/2017/09/22/technology/farhads-and-mikes-week-in-tech-a-very-bad-week-for-digital-giants.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/22/technology/farhads-and-mikes-week-in-tech-a-very-bad-week-for-digital-giants.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/22/technology/farhads-and-mikes-week-in-tech-a-very-bad-week-for-digital-giants.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/23/technology/23technewsletter/merlin-to-scoop-127668665-618469-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Google is spending $1.1 billion to hire about 2,000 employees from HTC.</media:description>
+      <media:credit>Dado Ruvic/Reuters</media:credit>
+      <description>Apple&#x2019;s Watch has a bug, Facebook might be undermining democracy, and Amazon is telling us how to make bombs. Tech news is weird right now.</description>
+      <dc:creator>FARHAD MANJOO and MIKE ISAAC</dc:creator>
+      <pubDate>Fri, 22 Sep 2017 13:00:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">HTC Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+    </item>
+    <item>
+      <title>The Shift: Facebook&#x2019;s Frankenstein Moment</title>
+      <link>https://www.nytimes.com/2017/09/21/technology/facebook-frankenstein-sandberg-ads.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/21/technology/facebook-frankenstein-sandberg-ads.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/21/technology/facebook-frankenstein-sandberg-ads.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/22/business/22ROOSE3/22ROOSE3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Victor Frankenstein, looking over a creature he had made, eventually realized that he couldn&#x2019;t control his creation.</media:description>
+      <media:credit>Hammer Film, via Photofest</media:credit>
+      <description>A series of scandals have opened up the possibility that the company may have created something it can&#x2019;t fully control.</description>
+      <dc:creator>KEVIN ROOSE</dc:creator>
+      <pubDate>Thu, 21 Sep 2017 23:38:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandberg, Sheryl K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+    </item>
+    <item>
+      <title>Facebook to Turn Over Russian-Linked Ads to Congress</title>
+      <link>https://www.nytimes.com/2017/09/21/technology/facebook-russian-ads.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/21/technology/facebook-russian-ads.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/21/technology/facebook-russian-ads.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/22/business/22FACEBOOK-1/22FACEBOOK-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Facebook said it would share more than 3,000 Russia-linked adds with two congressional committees investigating Russian influence on last year&#x2019;s presidential campaign. The company previously showed congressional staff a sample of the ads, some of which attacked Hillary Clinton or praised Donald J. Trump, but had not shared the entire collection.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>The company said it would turn over 3,000 ads linked to Russia to Congress after growing scrutiny about its role in last November&#x2019;s presidential election.</description>
+      <dc:creator>SCOTT SHANE and MIKE ISAAC</dc:creator>
+      <pubDate>Fri, 22 Sep 2017 14:25:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Online Advertising</category>
+    </item>
+    <item>
+      <title>Tech Tip: Retiring the Google Drive Desktop App</title>
+      <link>https://www.nytimes.com/2017/09/21/technology/personaltech/retiring-the-google-drive-desktop-app.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/21/technology/personaltech/retiring-the-google-drive-desktop-app.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/21/technology/personaltech/retiring-the-google-drive-desktop-app.html?partner=rss&amp;emc=rss"/>
+      <description>While its current desktop app for Windows and Mac is headed off into the sunset, Google has new apps for backing up and syncing files online.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Thu, 21 Sep 2017 13:53:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Storage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Google Drive</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Drive File Stream</category>
+    </item>
+    <item>
+      <title>How to Hack Your Brain (for $5,000)</title>
+      <link>https://www.nytimes.com/2017/09/21/style/what-is-flow.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/21/style/what-is-flow.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/21/style/what-is-flow.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/fashion/21FLOWCAMPweb4/21FLOWCAMPweb4-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jamie Wheal speaking to participants on the last night of Flow Camp in the &#x201C;Flow Dojo&#x201D; at Powder Mountain, Utah.</media:description>
+      <media:credit>Michael Friberg for The New York Times</media:credit>
+      <description>The new, new, new age is all about &#x201C;defragging our nervous systems.&#x201D;</description>
+      <dc:creator>CASEY SCHWARTZ</dc:creator>
+      <pubDate>Thu, 21 Sep 2017 04:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Conventions, Fairs and Trade Shows</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wheal, Jamie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Csikszentmihalyi, Mihaly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Flow</category>
+    </item>
+    <item>
+      <title>Google Is Buying HTC&#x2019;s Smartphone Expertise for $1.1 Billion</title>
+      <link>https://www.nytimes.com/2017/09/20/technology/google-htc-smartphones.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/technology/google-htc-smartphones.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/technology/google-htc-smartphones.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/business/21GoogleHTC/21GoogleHTC-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>HTC employees were already working with Google on smartphone development before a $1.1 billion deal that was announced on Wednesday.</media:description>
+      <media:credit>Paul Hanna/Reuters</media:credit>
+      <description>The deal bolsters Google&#x2019;s ability to build mobile hardware and joins two companies already working together on one of Google&#x2019;s upcoming Pixel phones.</description>
+      <dc:creator>DAISUKE WAKABAYASHI</dc:creator>
+      <pubDate>Thu, 21 Sep 2017 04:00:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">HTC Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+    </item>
+    <item>
+      <title>S.E.C. Says It Was a Victim of Computer Hacking Last Year</title>
+      <link>https://www.nytimes.com/2017/09/20/business/sec-hacking-attack.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/business/sec-hacking-attack.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/business/sec-hacking-attack.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/business/21SEC/21SEC-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Securities and Exchange Commission said a digital attack last year may have exposed information that could have been exploited for trading purposes.</media:description>
+      <media:credit>Andrew Harnik/Associated Press</media:credit>
+      <description>The commission said the attackers could have exploited private information for trading purposes.</description>
+      <dc:creator>ALEXANDRA STEVENSON and CARLOS TEJADA</dc:creator>
+      <pubDate>Thu, 21 Sep 2017 08:32:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Securities and Exchange Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+    </item>
+    <item>
+      <title>Internet Giants Face New Political Resistance in Washington</title>
+      <link>https://www.nytimes.com/2017/09/20/technology/internet-giants-face-new-political-resistance-in-washington.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/technology/internet-giants-face-new-political-resistance-in-washington.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/technology/internet-giants-face-new-political-resistance-in-washington.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/business/21TECHRIGS-1/21TECHRIGS-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Google&#x2019;s headquarters in Mountain View, Calif. &#x201C;There needs to be more aggressive enforcement action on tech companies like Google,&#x201D; says Senator Richard Blumenthal, a Democrat from Connecticut.</media:description>
+      <media:credit>Christie Hemm Klok for The New York Times</media:credit>
+      <description>Facebook, Google and Amazon are coming under increasing pressure by regulators concerned about their growing power.</description>
+      <dc:creator>CECILIA KANG</dc:creator>
+      <pubDate>Thu, 21 Sep 2017 00:32:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Former Apple Engineers Working on New Eyes for Driverless Cars</title>
+      <link>https://www.nytimes.com/2017/09/20/technology/former-apple-engineers-driverless-cars.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/technology/former-apple-engineers-driverless-cars.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/technology/former-apple-engineers-driverless-cars.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/business/21AEVA-1/21AEVA-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Soroush Salehian and Mina Rezk, of Aeva, a Silicon Valley start-up making new guidance systems for driverless vehicles.</media:description>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <description>The Silicon Valley start-up Aeva is developing new sensors that could significantly improve how autonomous vehicles see the road.</description>
+      <dc:creator>CADE METZ</dc:creator>
+      <pubDate>Thu, 21 Sep 2017 04:35:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Aeva Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rezk, Mina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salehian, Soroush</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sensors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Navigation</category>
+    </item>
+    <item>
+      <title>Facebook, After &#x2018;Fail&#x2019; Over Ads Targeting Racists, Makes Changes</title>
+      <link>https://www.nytimes.com/2017/09/20/business/media/facebook-racist-ads.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/business/media/facebook-racist-ads.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/business/media/facebook-racist-ads.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/business/21FACEBOOKADS/21FACEBOOKADS-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Sheryl Sandberg, Facebook&#x2019;s chief operating officer, said the company had never anticipated that its ad-targeting technology could be used to court users who described themselves as &#x201C;Jew haters&#x201D; or used other hate speech.</media:description>
+      <media:credit>Laurent Gillieron/Keystone, via Associated Press</media:credit>
+      <description>Sheryl Sandberg, Facebook&#x2019;s chief operating officer, promised &#x201C;more human review and oversight&#x201D; to make sure offensive terms aren&#x2019;t used to target ads.</description>
+      <dc:creator>SAPNA MAHESHWARI and MIKE ISAAC</dc:creator>
+      <pubDate>Thu, 21 Sep 2017 01:46:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandberg, Sheryl K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+    </item>
+    <item>
+      <title>Tech We&#x2019;re Using: Avoiding Cameras While Training the Lens on Food</title>
+      <link>https://www.nytimes.com/2017/09/20/technology/personaltech/what-technology-pete-wells-uses.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/technology/personaltech/what-technology-pete-wells-uses.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/technology/personaltech/what-technology-pete-wells-uses.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/business/21TECHUSING-1/21TECHUSING-1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Pete Wells, The New York Times&#x2019;s restaurant critic, at a Brooklyn restaurant this month.</media:description>
+      <media:credit>Sasha Maslov for The New York Times</media:credit>
+      <description>Pete Wells, The Times&#x2019;s restaurant critic, discussed how he avoids cameras to protect his identity and how technology has transformed the dining scene.</description>
+      <dc:creator>PETE WELLS</dc:creator>
+      <pubDate>Wed, 20 Sep 2017 20:25:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wells, Pete</category>
+    </item>
+    <item>
+      <title>Europe Renews Offensive on Silicon Valley With Tax Reforms</title>
+      <link>https://www.nytimes.com/2017/09/20/business/eu-tech-tax.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/business/eu-tech-tax.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/business/eu-tech-tax.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/business/21eutech-1/21eutech-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Google&#x2019;s offices, center, in Dublin last year. European Commission officials are investigating Google for allegedly abusing its dominant market position.</media:description>
+      <media:credit>Paulo Nunes dos Santos for The New York Times</media:credit>
+      <description>A new set of proposals presented by officials in Brussels seek to tax technology companies differently, but risk being seen as an effort to target American tech giants.</description>
+      <dc:creator>JAMES KANTER</dc:creator>
+      <pubDate>Thu, 21 Sep 2017 00:31:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Shelters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+    </item>
+    <item>
+      <title>Toshiba Reaches Tentative Deal to Sell Microchip Unit</title>
+      <link>https://www.nytimes.com/2017/09/20/business/dealbook/toshiba-bain-capital-chip.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/business/dealbook/toshiba-bain-capital-chip.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/business/dealbook/toshiba-bain-capital-chip.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/business/21db-toshiba-1/21db-toshiba-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Toshiba&#x2019;s semiconductor unit is the world&#x2019;s second-largest producer of NAND flash memory.</media:description>
+      <media:credit>Yuriko Nakao/Reuters</media:credit>
+      <description>The board of the Japanese conglomerate is close to an agreement with a group of investors led by Bain Capital, although details must still be finalized.</description>
+      <dc:creator>JONATHAN SOBLE</dc:creator>
+      <pubDate>Wed, 20 Sep 2017 22:20:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">TOSHIBA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Bain Capital</category>
+    </item>
+    <item>
+      <title>Tech Tip: Getting Social With Waze</title>
+      <link>https://www.nytimes.com/2017/09/20/technology/personaltech/getting-social-with-waze.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/technology/personaltech/getting-social-with-waze.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/technology/personaltech/getting-social-with-waze.html?partner=rss&amp;emc=rss"/>
+      <description>The traffic app is great at giving directions and rerouting around jams, but it also includes features for drivers when they&#x2019;re not on the road.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Wed, 20 Sep 2017 13:23:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Waze Mobile</category>
+    </item>
+    <item>
+      <title>Amazon &#x2018;Reviewing&#x2019; Its Website After It Suggested Bomb-Making Items</title>
+      <link>https://www.nytimes.com/2017/09/20/technology/uk-amazon-bomb.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/technology/uk-amazon-bomb.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/technology/uk-amazon-bomb.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/business/21ukamazon-1505910087370/21ukamazon-1505910087370-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A British TV station said Amazon&#x2019;s website was prompting customers to buy all the ingredients to make a bomb.</media:description>
+      <media:credit>Richard Drew/Associated Press</media:credit>
+      <description>A British television news report said that the online retailer&#x2019;s algorithms were automatically offering items that could be used to create an explosive device.</description>
+      <dc:creator>AMIE TSANG</dc:creator>
+      <pubDate>Wed, 20 Sep 2017 21:56:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">London Subway Bombing (September, 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>Tech Fix: Apple Watch Series 3 Excels, Even if You Don&#x2019;t Need Cellular</title>
+      <link>https://www.nytimes.com/2017/09/20/technology/personaltech/apple-watch-series-3-review-cellular.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/technology/personaltech/apple-watch-series-3-review-cellular.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/technology/personaltech/apple-watch-series-3-review-cellular.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/20/business/21TECHFIX-1/21TECHFIX-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jeff Williams, Apple&#x2019;s chief operating officer, presenting features of the new Apple Watch at a company event last week. Cellular connectivity with the smartwatches is likely a luxury that most people probably will not need.</media:description>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <description>Date night without your iPhone? That&#x2019;s now doable with the new cellular Apple Watch, which for the first time can be untethered from your smartphone. Here&#x2019;s our review.</description>
+      <dc:creator>BRIAN X. CHEN</dc:creator>
+      <pubDate>Wed, 20 Sep 2017 21:32:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wearable Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Watches and Clocks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">iPhone</category>
+    </item>
+    <item>
+      <title>Before Wisconsin, Foxconn Vowed Big Spending in Brazil. Few Jobs Have Come.</title>
+      <link>https://www.nytimes.com/2017/09/20/business/foxconn-trump-wisconsin.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/business/foxconn-trump-wisconsin.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/business/foxconn-trump-wisconsin.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/20/business/20FOXCONN7/20FOXCONN7-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Foxconn-owned building in the state of S&#xE3;o Paulo, Brazil, in 2012. The company&#x2019;s plans to build one of the world&#x2019;s biggest manufacturing hubs in Brazil have stalled.</media:description>
+      <media:credit>Ana Ottoni for The New York Times</media:credit>
+      <description>The Taiwanese company&#x2019;s manufacturing model has not translated easily to other countries, where it faces different social, political and labor conditions.</description>
+      <dc:creator>DAVID BARBOZA</dc:creator>
+      <pubDate>Wed, 20 Sep 2017 04:01:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Foxconn Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>The iPhone 8 Reviews: What the Critics Say</title>
+      <link>https://www.nytimes.com/2017/09/19/technology/iphone-reviews.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/19/technology/iphone-reviews.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/19/technology/iphone-reviews.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/insider/20xp-iphonereviews1/20xp-iphonereviews1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The iPhone 8, left, and 8 Plus.</media:description>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <description>Reviewers considered the phones a modest upgrade over the iPhone 7 and 7 Plus, but several suggested waiting for the iPhone X.</description>
+      <dc:creator>DANIEL VICTOR</dc:creator>
+      <pubDate>Tue, 19 Sep 2017 21:01:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+    </item>
+    <item>
+      <title>An Earthquake Hits and Angelenos Shelter on Twitter</title>
+      <link>https://www.nytimes.com/2017/09/19/fashion/earthquake-los-angeles-chrissy-teigen-kim-kardashian.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/19/fashion/earthquake-los-angeles-chrissy-teigen-kim-kardashian.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/19/fashion/earthquake-los-angeles-chrissy-teigen-kim-kardashian.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/19/fashion/19EARTHQUAKEweb/19EARTHQUAKEweb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Monday night&#x2019;s earthquake hit a few miles away from Westwood, Calif., an area near Bel Air, Beverly Hills and Santa Monica.</media:description>
+      <media:credit>Mark J. Terrill/Associated Press</media:credit>
+      <description>It may have been mild and standard, but it happened in Los Angeles. So, naturally, earthquake was a trending topic on Twitter by early Tuesday.</description>
+      <dc:creator>VALERIYA SAFRONOVA</dc:creator>
+      <pubDate>Tue, 19 Sep 2017 18:24:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+    </item>
+    <item>
+      <title>Book News: YouTube Star Hank Green Will Publish His First Novel Next Year</title>
+      <link>https://www.nytimes.com/2017/09/19/books/youtube-star-hank-green-first-novel.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/19/books/youtube-star-hank-green-first-novel.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/19/books/youtube-star-hank-green-first-novel.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/arts/21HANKGREEN-pic/19HANKGREEN-pic-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Andrew Kemmis Photo</media:credit>
+      <description>Following in the footsteps of his older brother, the best-selling novelist John Green, Hank Green will publish his first novel with Dutton.</description>
+      <dc:creator>ALEXANDRA ALTER</dc:creator>
+      <pubDate>Tue, 19 Sep 2017 17:34:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Green, Hank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">An Absolutely Remarkable Thing (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Green, John (1977- )</category>
+    </item>
+    <item>
+      <title>Tech Tip: Why Deleted Tweets Still Linger Online</title>
+      <link>https://www.nytimes.com/2017/09/19/technology/personaltech/deleted-tweets.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/19/technology/personaltech/deleted-tweets.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/19/technology/personaltech/deleted-tweets.html?partner=rss&amp;emc=rss"/>
+      <description>Even if you kill a Twitter post from your timeline, a search engine may give it a second life until it updates its index files.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Tue, 19 Sep 2017 15:55:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+    </item>
+    <item>
+      <title>State of the Art: The iPhone 8: A Worthy Refinement Before the Next Generation</title>
+      <link>https://www.nytimes.com/2017/09/19/technology/personaltech/the-iphone-8-a-worthy-refinement-before-the-next-generation.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/19/technology/personaltech/the-iphone-8-a-worthy-refinement-before-the-next-generation.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/19/technology/personaltech/the-iphone-8-a-worthy-refinement-before-the-next-generation.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/20/insider/21STATE-1/21STATE-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The iPhone 8, left, and the 8 Plus both have processors that are significantly faster than the iPhone 7&#x2019;s.</media:description>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <description>Apple&#x2019;s new iPhone 8 and 8 Plus have a ring of familiarity. But the phones may feel like a solid upgrade from older models because of their new processor.</description>
+      <dc:creator>FARHAD MANJOO</dc:creator>
+      <pubDate>Wed, 20 Sep 2017 21:32:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cameras</category>
+    </item>
+    <item>
+      <title>High Tech Meets High Art in a 3-D Opera</title>
+      <link>https://www.nytimes.com/2017/09/18/arts/music/blank-out-park-avenue-armory-van-der-aa.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/18/arts/music/blank-out-park-avenue-armory-van-der-aa.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/18/arts/music/blank-out-park-avenue-armory-van-der-aa.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/19/arts/19OPERA3D1/19OPERA3D1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Miah Persson, live onstage, and Roderick Williams, in film, in &#x201C;Blank Out,&#x201D; by Michel van der Aa, who has become known for combining traditional opera and high-tech elements.</media:description>
+      <media:credit>Marco Borggreve</media:credit>
+      <description>Michel van der Aa&#x2019;s &#x201C;Blank Out,&#x201D; at the Park Avenue Armory, brings together a live singer onstage and another who appears only in a 3-D film.</description>
+      <dc:creator>NINA SIEGAL</dc:creator>
+      <pubDate>Mon, 18 Sep 2017 19:48:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Blank Out (Opera)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">van der Aa, Michel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">3-D Devices and Effects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Roderick (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Persson, Miah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Park Avenue Armory (Manhattan, NY)</category>
+    </item>
+    <item>
+      <title>Tech Tip: Outlook for Android, Plain and Simple</title>
+      <link>https://www.nytimes.com/2017/09/18/technology/personaltech/outlook-for-android-plain-and-simple.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/18/technology/personaltech/outlook-for-android-plain-and-simple.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/18/technology/personaltech/outlook-for-android-plain-and-simple.html?partner=rss&amp;emc=rss"/>
+      <description>Microsoft&#x2019;s mobile version of Outlook for the Android platform doesn&#x2019;t offer text-formatting options, but it does manage your mailbox.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Mon, 18 Sep 2017 16:03:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Mail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Microsoft Corp</category>
+    </item>
+    <item>
+      <title>How the Internet Kept Humming During 2 Hurricanes</title>
+      <link>https://www.nytimes.com/2017/09/18/us/harvey-irma-internet.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/18/us/harvey-irma-internet.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/18/us/harvey-irma-internet.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/19/us/19Datacenters-1/19Datacenters-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rain from Hurricane Harvey last month pummeling the Skybox data center west of Houston.</media:description>
+      <media:credit>Skybox Datacenters</media:credit>
+      <description>While millions lost electricity across Florida, and thousands of homes and businesses were flooded in Miami and Texas, the data centers powering the internet held firm.</description>
+      <dc:creator>JAMES GLANZ</dc:creator>
+      <pubDate>Mon, 18 Sep 2017 09:00:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hurricane Irma (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hurricane Harvey (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miami (Fla)</category>
+    </item>
+    <item>
+      <title>Facebook Faces a New World as Officials Rein In a Wild Web</title>
+      <link>https://www.nytimes.com/2017/09/17/technology/facebook-government-regulations.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/17/technology/facebook-government-regulations.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/17/technology/facebook-government-regulations.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/14/business/00FACEBOOKWORLD2/00FACEBOOKWORLD2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Vietnam&#x2019;s government has said Facebook agreed to help create a new communications channel with the government.</media:description>
+      <media:credit>Na Son Nguyen/Associated Press</media:credit>
+      <description>The web is not as open as it once was, with nation-states exerting their power over the internet. Facebook and other tech companies are dealing with the consequences.</description>
+      <dc:creator>PAUL MOZUR, MARK SCOTT and MIKE ISAAC</dc:creator>
+      <pubDate>Mon, 18 Sep 2017 08:29:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+    </item>
+    <item>
+      <title>How Facebook Is Changing Your Internet</title>
+      <link>https://www.nytimes.com/video/technology/100000005082185/how-facebook-is-changing-your-internet.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/technology/100000005082185/how-facebook-is-changing-your-internet.html</guid>
+      <description>Behind the scenes, Facebook is involved in high-stakes diplomatic battles across the globe that have begun fragmenting the internet itself.</description>
+      <dc:creator/>
+      <pubDate>Mon, 18 Sep 2017 01:41:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/mdes">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/mdes">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/mdes">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/mdes">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>Mediator: Facebook Knows More About Russia&#x2019;s Election Meddling. Shouldn&#x2019;t We?</title>
+      <link>https://www.nytimes.com/2017/09/17/business/facebook-russia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/17/business/facebook-russia.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/17/business/facebook-russia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/18/business/18RUTENBERG/18RUTENBERG-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Facebook mural on the company&#x2019;s campus in 2014. Facebook is under fire for running ads purchased by fake users trying to cause disruption in the American electorate.</media:description>
+      <media:credit>Jeff Chiu/Associated Press</media:credit>
+      <description>The social media giant owes it to its users to let them know if they interacted with what amounts to a digital spy. And that&#x2019;s just the start.</description>
+      <dc:creator>JIM RUTENBERG</dc:creator>
+      <pubDate>Mon, 18 Sep 2017 10:40:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+    </item>
+  </channel>
+</rss>

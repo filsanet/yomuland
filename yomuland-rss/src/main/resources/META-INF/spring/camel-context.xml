@@ -7,24 +7,17 @@
        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
        http://camel.apache.org/schema/spring http://camel.apache.org/schema/spring/camel-spring.xsd">
 
+  <bean id="simpleRouteBuilder" class="filsa.yomuland.camel.SimpleRssRouteBuilder" />
+  <bean id="rss2pdfRouteBuilder" class="filsa.yomuland.camel.Rss2PdfRouteBuilder" />
   <camelContext xmlns="http://camel.apache.org/schema/spring">
     <!-- here is a sample which processes the input files
          (leaving them in place - see the 'noop' flag)
          then performs content based routing on the message using XPath -->
-    <route>
-      <from uri="file:src/data?noop=true"/>
-      <choice>
-        <when>
-          <xpath>/person/city = 'London'</xpath>
-          <log message="UK message"/>
-          <to uri="file:target/messages/uk"/>
-        </when>
-        <otherwise>
-          <log message="Other message"/>
-          <to uri="file:target/messages/others"/>
-        </otherwise>
-      </choice>
-    </route>
+    <!-- <package>filsa.yomura.camel</package> -->
+
+    <routeBuilder ref="simpleRouteBuilder" />
+    <routeBuilder ref="rss2pdfRouteBuilder" />
+
   </camelContext>
 
 </beans>

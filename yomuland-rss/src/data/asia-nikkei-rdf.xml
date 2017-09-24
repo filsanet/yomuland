@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="https://asia.nikkei.com/rss/feed/nar" xml:lang="en-GB">
+    <title>Nikkei Asian Review</title>
+    <link>https://asia.nikkei.com/</link>
+    <description></description>
+    <items>
+      <rdf:Seq>
+        <rdf:li resource="https://asia.nikkei.com/Business/Companies/Mitsubishi-Motors-to-roll-out-SUV-based-mini-EVs"/>
+        <rdf:li resource="https://asia.nikkei.com/Politics-Economy/Policy-Politics/National-Party-stays-on-top-in-NZ-election-though-still-shy-of-majority"/>
+        <rdf:li resource="https://asia.nikkei.com/Politics-Economy/Economy/Japan-plans-new-laws-to-encourage-offshore-wind-power-generation"/>
+        <rdf:li resource="https://asia.nikkei.com/Politics-Economy/Policy-Politics/Opposition-says-no-to-naming-SDF-in-constitution"/>
+        <rdf:li resource="https://asia.nikkei.com/Politics-Economy/International-Relations/Lavrov-urges-peaceful-resolution-to-Trump-Kim-kindergarten-fight"/>
+        <rdf:li resource="https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-s-opposition-says-snap-election-likely-unconstitutional"/>
+        <rdf:li resource="https://asia.nikkei.com/Markets/Tokyo-Market/China-exposed-stocks-take-a-drubbing-in-Tokyo"/>
+        <rdf:li resource="https://asia.nikkei.com/Spotlight/Pyongyang-provocation/Washington-Beijing-team-up-to-hit-North-Korea-in-the-wallet"/>
+        <rdf:li resource="https://asia.nikkei.com/Politics-Economy/Economy/BOJ-s-2-inflation-target-not-appropriate-says-ex-central-banker"/>
+        <rdf:li resource="https://asia.nikkei.com/Business/Deals/Japan-s-Murata-to-acquire-US-medical-startup-for-102m"/>
+        <rdf:li resource="https://asia.nikkei.com/Business/Companies/Mitsubishi-Heavy-aims-to-double-forklift-profit-in-2-years"/>
+        <rdf:li resource="https://asia.nikkei.com/Business/Consumers/Japan-s-big-mobile-carriers-still-glued-to-their-iPhones"/>
+        <rdf:li resource="https://asia.nikkei.com/Business/Consumers/Mobike-rolls-out-new-model-created-by-Muji-designer"/>
+        <rdf:li resource="https://asia.nikkei.com/Business/Deals/Hamamatsu-Photonics-buying-US-maker-of-advanced-light-sources"/>
+        <rdf:li resource="https://asia.nikkei.com/Business/Companies/Toyota-backed-PKSHA-s-IPO-pop-raises-hopes-for-Japan-AI"/>
+        <rdf:li resource="https://asia.nikkei.com/Markets/Tokyo-Market/Hisamitsu-s-interim-operating-profit-seen-down-3"/>
+        <rdf:li resource="https://asia.nikkei.com/Business/Companies/Japan-Airlines-wrestles-Hawaiian-Air-away-from-rival-ANA"/>
+        <rdf:li resource="https://asia.nikkei.com/Politics-Economy/Economy/Bank-Indonesia-lowers-policy-rate-to-4.25"/>
+        <rdf:li resource="https://asia.nikkei.com/Business/AC/China-s-cars-will-be-fully-electrified-by-2030-BYD-boss"/>
+        <rdf:li resource="https://asia.nikkei.com/Spotlight/Pyongyang-provocation/Behind-fevered-rhetoric-Kim-seeks-parity-with-Trump"/>
+        <rdf:li resource="https://asia.nikkei.com/Business/AC/Ping-An-becomes-top-shareholder-in-Japan-drugmaker-Tsumura"/>
+        <rdf:li resource="https://asia.nikkei.com/Markets/Tokyo-Market/Japan-s-Aeon-seen-ringing-up-record-first-half-profit"/>
+        <rdf:li resource="https://asia.nikkei.com/Business/Companies/Japan-s-Kubota-to-open-90m-logistics-center-in-US-Midwest"/>
+        <rdf:li resource="https://asia.nikkei.com/Politics-Economy/International-Relations/TPP-11-talks-set-parameters-for-moving-forward"/>
+        <rdf:li resource="https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-s-Abe-making-risky-bet-on-snap-election"/>
+        <rdf:li resource="https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-to-expand-service-sector-work-for-foreigners"/>
+        <rdf:li resource="https://asia.nikkei.com/Markets/Equities/Hong-Kong-stocks-trim-weekly-gains-on-new-North-Korea-tensions"/>
+        <rdf:li resource="https://asia.nikkei.com/Business/Trends/Drone-companies-showcase-smart-guard-solutions-for-India"/>
+        <rdf:li resource="https://asia.nikkei.com/Business/Trends/3-row-SUVs-A-growing-trend"/>
+        <rdf:li resource="https://asia.nikkei.com/Politics-Economy/Economy/Shanghai-rents-plateau-for-1st-time-in-8-years"/>
+        <rdf:li resource="https://asia.nikkei.com/Markets/Equities/Hong-Kong-stocks-poised-for-biggest-drop-in-a-month"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://asia.nikkei.com/Business/Companies/Mitsubishi-Motors-to-roll-out-SUV-based-mini-EVs">
+    <title>Mitsubishi Motors to roll out SUV-based mini EVs</title>
+    <link>https://asia.nikkei.com/Business/Companies/Mitsubishi-Motors-to-roll-out-SUV-based-mini-EVs</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Politics-Economy/Policy-Politics/National-Party-stays-on-top-in-NZ-election-though-still-shy-of-majority">
+    <title>National Party stays on top in NZ election, though still shy of majority </title>
+    <link>https://asia.nikkei.com/Politics-Economy/Policy-Politics/National-Party-stays-on-top-in-NZ-election-though-still-shy-of-majority</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Politics-Economy/Economy/Japan-plans-new-laws-to-encourage-offshore-wind-power-generation">
+    <title>Japan plans new laws to encourage offshore wind power generation</title>
+    <link>https://asia.nikkei.com/Politics-Economy/Economy/Japan-plans-new-laws-to-encourage-offshore-wind-power-generation</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Politics-Economy/Policy-Politics/Opposition-says-no-to-naming-SDF-in-constitution">
+    <title>Opposition says no to naming SDF in constitution</title>
+    <link>https://asia.nikkei.com/Politics-Economy/Policy-Politics/Opposition-says-no-to-naming-SDF-in-constitution</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Politics-Economy/International-Relations/Lavrov-urges-peaceful-resolution-to-Trump-Kim-kindergarten-fight">
+    <title>Lavrov urges peaceful resolution to Trump-Kim 'kindergarten fight'</title>
+    <link>https://asia.nikkei.com/Politics-Economy/International-Relations/Lavrov-urges-peaceful-resolution-to-Trump-Kim-kindergarten-fight</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-s-opposition-says-snap-election-likely-unconstitutional">
+    <title>Japan's opposition says snap election likely unconstitutional</title>
+    <link>https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-s-opposition-says-snap-election-likely-unconstitutional</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Markets/Tokyo-Market/China-exposed-stocks-take-a-drubbing-in-Tokyo">
+    <title>China-exposed stocks take a drubbing in Tokyo</title>
+    <link>https://asia.nikkei.com/Markets/Tokyo-Market/China-exposed-stocks-take-a-drubbing-in-Tokyo</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Spotlight/Pyongyang-provocation/Washington-Beijing-team-up-to-hit-North-Korea-in-the-wallet">
+    <title>Washington, Beijing team up to hit North Korea in the wallet</title>
+    <link>https://asia.nikkei.com/Spotlight/Pyongyang-provocation/Washington-Beijing-team-up-to-hit-North-Korea-in-the-wallet</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Politics-Economy/Economy/BOJ-s-2-inflation-target-not-appropriate-says-ex-central-banker">
+    <title>BOJ's 2% inflation target 'not appropriate,' says ex-central banker</title>
+    <link>https://asia.nikkei.com/Politics-Economy/Economy/BOJ-s-2-inflation-target-not-appropriate-says-ex-central-banker</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Business/Deals/Japan-s-Murata-to-acquire-US-medical-startup-for-102m">
+    <title>Japan's Murata to acquire US medical startup for $102m</title>
+    <link>https://asia.nikkei.com/Business/Deals/Japan-s-Murata-to-acquire-US-medical-startup-for-102m</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Business/Companies/Mitsubishi-Heavy-aims-to-double-forklift-profit-in-2-years">
+    <title>Mitsubishi Heavy aims to double forklift profit in 2 years</title>
+    <link>https://asia.nikkei.com/Business/Companies/Mitsubishi-Heavy-aims-to-double-forklift-profit-in-2-years</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Business/Consumers/Japan-s-big-mobile-carriers-still-glued-to-their-iPhones">
+    <title>Japan's big mobile carriers still glued to their iPhones</title>
+    <link>https://asia.nikkei.com/Business/Consumers/Japan-s-big-mobile-carriers-still-glued-to-their-iPhones</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Business/Consumers/Mobike-rolls-out-new-model-created-by-Muji-designer">
+    <title>Mobike rolls out new model created by Muji designer</title>
+    <link>https://asia.nikkei.com/Business/Consumers/Mobike-rolls-out-new-model-created-by-Muji-designer</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Business/Deals/Hamamatsu-Photonics-buying-US-maker-of-advanced-light-sources">
+    <title>Hamamatsu Photonics buying US maker of advanced light sources </title>
+    <link>https://asia.nikkei.com/Business/Deals/Hamamatsu-Photonics-buying-US-maker-of-advanced-light-sources</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Business/Companies/Toyota-backed-PKSHA-s-IPO-pop-raises-hopes-for-Japan-AI">
+    <title>Toyota-backed PKSHA's IPO pop raises hopes for Japan AI</title>
+    <link>https://asia.nikkei.com/Business/Companies/Toyota-backed-PKSHA-s-IPO-pop-raises-hopes-for-Japan-AI</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Markets/Tokyo-Market/Hisamitsu-s-interim-operating-profit-seen-down-3">
+    <title>Earnings preview: Hisamitsu's interim operating profit seen down 3%</title>
+    <link>https://asia.nikkei.com/Markets/Tokyo-Market/Hisamitsu-s-interim-operating-profit-seen-down-3</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Business/Companies/Japan-Airlines-wrestles-Hawaiian-Air-away-from-rival-ANA">
+    <title>Japan Airlines wrestles Hawaiian Air away from rival ANA</title>
+    <link>https://asia.nikkei.com/Business/Companies/Japan-Airlines-wrestles-Hawaiian-Air-away-from-rival-ANA</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Politics-Economy/Economy/Bank-Indonesia-lowers-policy-rate-to-4.25">
+    <title>Bank Indonesia lowers policy rate to 4.25%</title>
+    <link>https://asia.nikkei.com/Politics-Economy/Economy/Bank-Indonesia-lowers-policy-rate-to-4.25</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Business/AC/China-s-cars-will-be-fully-electrified-by-2030-BYD-boss">
+    <title>China's cars will be 'fully electrified' by 2030: BYD boss</title>
+    <link>https://asia.nikkei.com/Business/AC/China-s-cars-will-be-fully-electrified-by-2030-BYD-boss</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Spotlight/Pyongyang-provocation/Behind-fevered-rhetoric-Kim-seeks-parity-with-Trump">
+    <title>Behind fevered rhetoric, Kim seeks parity with Trump</title>
+    <link>https://asia.nikkei.com/Spotlight/Pyongyang-provocation/Behind-fevered-rhetoric-Kim-seeks-parity-with-Trump</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Business/AC/Ping-An-becomes-top-shareholder-in-Japan-drugmaker-Tsumura">
+    <title>Ping An becomes top shareholder in Japan drugmaker Tsumura</title>
+    <link>https://asia.nikkei.com/Business/AC/Ping-An-becomes-top-shareholder-in-Japan-drugmaker-Tsumura</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Markets/Tokyo-Market/Japan-s-Aeon-seen-ringing-up-record-first-half-profit">
+    <title>Earnings preview: Japan's Aeon seen ringing up record first-half profit</title>
+    <link>https://asia.nikkei.com/Markets/Tokyo-Market/Japan-s-Aeon-seen-ringing-up-record-first-half-profit</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Business/Companies/Japan-s-Kubota-to-open-90m-logistics-center-in-US-Midwest">
+    <title>Japan's Kubota to open $90m logistics center in US Midwest</title>
+    <link>https://asia.nikkei.com/Business/Companies/Japan-s-Kubota-to-open-90m-logistics-center-in-US-Midwest</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Politics-Economy/International-Relations/TPP-11-talks-set-parameters-for-moving-forward">
+    <title>'TPP 11' talks set parameters for moving forward</title>
+    <link>https://asia.nikkei.com/Politics-Economy/International-Relations/TPP-11-talks-set-parameters-for-moving-forward</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-s-Abe-making-risky-bet-on-snap-election">
+    <title>Japan's Abe making risky bet on snap election</title>
+    <link>https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-s-Abe-making-risky-bet-on-snap-election</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-to-expand-service-sector-work-for-foreigners">
+    <title>Japan to expand service sector work for foreigners</title>
+    <link>https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-to-expand-service-sector-work-for-foreigners</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Markets/Equities/Hong-Kong-stocks-trim-weekly-gains-on-new-North-Korea-tensions">
+    <title>Hong Kong stocks trim weekly gains on new North Korea tensions</title>
+    <link>https://asia.nikkei.com/Markets/Equities/Hong-Kong-stocks-trim-weekly-gains-on-new-North-Korea-tensions</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Business/Trends/Drone-companies-showcase-smart-guard-solutions-for-India">
+    <title>Drone companies showcase 'smart guard' solutions for Indian borders</title>
+    <link>https://asia.nikkei.com/Business/Trends/Drone-companies-showcase-smart-guard-solutions-for-India</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Business/Trends/3-row-SUVs-A-growing-trend">
+    <title>3-row SUVs: A growing trend?</title>
+    <link>https://asia.nikkei.com/Business/Trends/3-row-SUVs-A-growing-trend</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Politics-Economy/Economy/Shanghai-rents-plateau-for-1st-time-in-8-years">
+    <title>Shanghai rents plateau for 1st time in 8 years</title>
+    <link>https://asia.nikkei.com/Politics-Economy/Economy/Shanghai-rents-plateau-for-1st-time-in-8-years</link>
+  </item>
+  <item rdf:about="https://asia.nikkei.com/Markets/Equities/Hong-Kong-stocks-poised-for-biggest-drop-in-a-month">
+    <title>Hong Kong stocks poised for biggest drop in a month</title>
+    <link>https://asia.nikkei.com/Markets/Equities/Hong-Kong-stocks-poised-for-biggest-drop-in-a-month</link>
+  </item>
+</rdf:RDF>

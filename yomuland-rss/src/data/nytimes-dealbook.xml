@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; DealBook</title>
+    <link>https://www.nytimes.com/pages/business/dealbook/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Dealbook.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Sun, 24 Sep 2017 09:30:18 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; DealBook</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/pages/business/dealbook/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Facebook Drops Stock Move That Would Have Solidified Zuckerberg&#x2019;s Control</title>
+      <link>https://www.nytimes.com/2017/09/22/technology/facebook-stock-reclassification-zuckerberg-control.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/22/technology/facebook-stock-reclassification-zuckerberg-control.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/22/technology/facebook-stock-reclassification-zuckerberg-control.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/23/business/23ZUCK/23ZUCK-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mark Zuckerberg and his wife, Dr. Priscilla Chan. Mr. Zuckerberg plans to sell Facebook stock so their charitable initiative can finance work in fields like education and science.<br/><br/><br/></media:description>
+      <media:credit>Jeff Chiu/Associated Press</media:credit>
+      <description>The social network&#x2019;s board withdrew a stock reclassification proposal after a shareholder suit that would have put Mr. Zuckerberg in a courtroom.</description>
+      <dc:creator>MIKE ISAAC</dc:creator>
+      <pubDate>Sat, 23 Sep 2017 18:57:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Chan Zuckerberg Initiative LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+    </item>
+    <item>
+      <title>PwC, the Accounting Giant, Will Open a Law Firm in the U.S.</title>
+      <link>https://www.nytimes.com/2017/09/22/business/dealbook/pwc-law-firm-ilc.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/22/business/dealbook/pwc-law-firm-ilc.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/22/business/dealbook/pwc-law-firm-ilc.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/23/business/23DB-LAW1/23DB-LAW1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>PwC headquarters in London. The accounting giant plans to open a Washington law firm this month to attract global business clients based in the United States.</media:description>
+      <media:credit>Pictures Ltd., via Getty Images</media:credit>
+      <description>The company formerly known as PricewaterhouseCoopers sees one-stop access to its services as a way to attract multinational businesses based in America.</description>
+      <dc:creator>ELIZABETH OLSON</dc:creator>
+      <pubDate>Fri, 22 Sep 2017 22:14:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accounting and Accountants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">PricewaterhouseCoopers</category>
+    </item>
+    <item>
+      <title>Morning Agenda: London to Ban Uber</title>
+      <link>https://www.nytimes.com/2017/09/22/business/dealbook/london-uber-ban.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/22/business/dealbook/london-uber-ban.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/22/business/dealbook/london-uber-ban.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/23/world/23db-newsletter-2/23db-newsletter-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Zahra Bakkali preparing her car in May for a shift as an Uber driver in London.</media:description>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <description>The move by the British capital&#x2019;s transportation regulator is a significant setback, as the ride-hailing service deals with trouble on multiple fronts.</description>
+      <dc:creator>AMIE TSANG and MICHAEL J. de la MERCED</dc:creator>
+      <pubDate>Fri, 22 Sep 2017 11:17:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common Sense: Tax Reform for the Rich: Reduce the Rates but Lose the Breaks</title>
+      <link>https://www.nytimes.com/2017/09/21/business/tax-breaks.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/21/business/tax-breaks.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/21/business/tax-breaks.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/22/business/22STEWART1/22STEWART1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>A study by the Tax Foundation shows that the mortgage interest deduction disproportionately favors taxpayers in states with high real-estate costs, which tend to be blue states like New York and California.</media:description>
+      <media:credit>Craig Warga/Bloomberg, via Getty Images</media:credit>
+      <description>Curbing special treatment for state and local taxes, mortgage interest and capital gains could pay for meaningful changes across the board.</description>
+      <dc:creator>JAMES B. STEWART</dc:creator>
+      <pubDate>Thu, 21 Sep 2017 16:33:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tax Shelters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Federal Taxes (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Gains Tax</category>
+    </item>
+    <item>
+      <title>Book Entry: Review: The Scandalous Friendship That Shaped Adam Smith</title>
+      <link>https://www.nytimes.com/2017/09/21/business/dealbook/infidel-professor-adam-smith-david-hume.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/21/business/dealbook/infidel-professor-adam-smith-david-hume.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/21/business/dealbook/infidel-professor-adam-smith-david-hume.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/18/business/18db-bookentry1/18db-bookentry1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;The Infidel and the Professor&#x201D; provides a touching and illuminating look at the friendship between Adam Smith, pictured, and fellow philosopher David Hume.</media:description>
+      <media:credit>Hulton Archive/Getty Images</media:credit>
+      <description>&#x201C;The Infidel and the Professor&#x201D; illuminates the deep bond between the father of economics, an establishment man, and the radical skeptic David Hume.</description>
+      <dc:creator>JONATHAN A. KNEE</dc:creator>
+      <pubDate>Thu, 21 Sep 2017 14:01:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Infidel and the Professor: David Hume, Adam Smith and the Friendship that Shaped Modern Thought (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rasmussen, Dennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Adam (1723-90)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hume, David (1711-76)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philosophy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitalism (Theory and Philosophy)</category>
+    </item>
+    <item>
+      <title>Morning Agenda: Google Gets Serious About Producing Better Phones</title>
+      <link>https://www.nytimes.com/2017/09/21/business/dealbook/google-htc-smartphones.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/21/business/dealbook/google-htc-smartphones.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/21/business/dealbook/google-htc-smartphones.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/22/world/22db-newsletter-1/22db-newsletter-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Google agreed to pay $1.1 billion to hire smartphone engineers from the Taiwanese company HTC.</media:description>
+      <media:credit>Tyrone Siu/Reuters</media:credit>
+      <description>Its move to hire HTC engineers is intended to improve competition with Apple and Samsung. But the tech giant&#x2019;s previous foray into handset making did not go so well.</description>
+      <dc:creator>AMIE TSANG and MICHAEL J. de la MERCED</dc:creator>
+      <pubDate>Thu, 21 Sep 2017 13:31:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">HTC Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Securities and Exchange Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bharara, Preet</category>
+    </item>
+    <item>
+      <title>A Start-Up Slump Is a Drag on the Economy. Big Business May Be to Blame.</title>
+      <link>https://www.nytimes.com/2017/09/20/business/economy/startup-business.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/business/economy/startup-business.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/business/economy/startup-business.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/business/21ECON/21ECON-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The San Francisco office of Rhumbix, a construction technology start-up.</media:description>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <description>The formation of new companies has failed to bounce back since the recession, and economists say the trend may be holding back wages and productivity.</description>
+      <dc:creator>BEN CASSELMAN</dc:creator>
+      <pubDate>Wed, 20 Sep 2017 22:40:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Productivity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Census Bureau</category>
+    </item>
+    <item>
+      <title>Toshiba Reaches Tentative Deal to Sell Microchip Unit</title>
+      <link>https://www.nytimes.com/2017/09/20/business/dealbook/toshiba-bain-capital-chip.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/business/dealbook/toshiba-bain-capital-chip.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/business/dealbook/toshiba-bain-capital-chip.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/business/21db-toshiba-1/21db-toshiba-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Toshiba&#x2019;s semiconductor unit is the world&#x2019;s second-largest producer of NAND flash memory.</media:description>
+      <media:credit>Yuriko Nakao/Reuters</media:credit>
+      <description>The board of the Japanese conglomerate is close to an agreement with a group of investors led by Bain Capital, although details must still be finalized.</description>
+      <dc:creator>JONATHAN SOBLE</dc:creator>
+      <pubDate>Wed, 20 Sep 2017 22:20:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">TOSHIBA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Bain Capital</category>
+    </item>
+    <item>
+      <title>Tata Steel and ThyssenKrupp Agree to Create European Steel Giant</title>
+      <link>https://www.nytimes.com/2017/09/20/business/dealbook/tata-steel-thyssenkrupp.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/business/dealbook/tata-steel-thyssenkrupp.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/business/dealbook/tata-steel-thyssenkrupp.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/business/21db-steel/21db-steel-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A steel worker at a ThyssenKrupp plant in Duisburg, Germany. Under the deal, the company&#x2019;s German operations could work with Tata Steel&#x2019;s plant in the Netherlands. The new venture would be based in Amsterdam.</media:description>
+      <media:credit>Friedemann Vogel/European Pressphoto Agency</media:credit>
+      <description>The two companies hope a joint venture would be better equipped to tackle chronic problems in the sector. But the deal faces major obstacles.</description>
+      <dc:creator>STANLEY REED</dc:creator>
+      <pubDate>Wed, 20 Sep 2017 20:47:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Steel and Iron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tata Steel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">ThyssenKrupp AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+    </item>
+    <item>
+      <title>Morning Agenda: Masayoshi Son Warns of the Singularity</title>
+      <link>https://www.nytimes.com/2017/09/20/business/dealbook/masayoshi-son-softbank-artificial-intelligence.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/business/dealbook/masayoshi-son-softbank-artificial-intelligence.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/business/dealbook/masayoshi-son-softbank-artificial-intelligence.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/world/21db-newsletter-1/21db-newsletter-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Masayoshi Son, the chief executive of SoftBank, spoke at the Mobile World Congress in Barcelona, Spain, in February.</media:description>
+      <media:credit>Lluis Gene/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The SoftBank founder laid out his predictions for how artificial intelligence will change the world &#x2014; and how his giant Vision Fund fits into that.</description>
+      <dc:creator>AMIE TSANG and MICHAEL J. de la MERCED</dc:creator>
+      <pubDate>Wed, 20 Sep 2017 15:29:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Harvard Endowment Reports &#x2018;Disappointing&#x2019; 8.1 Percent Return</title>
+      <link>https://www.nytimes.com/2017/09/19/business/dealbook/harvard-endowment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/19/business/dealbook/harvard-endowment.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/19/business/dealbook/harvard-endowment.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/20/business/20DB-ENDOW/20DB-ENDOW-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Harvard Business School&#x2019;s Baker Library. The university&#x2019;s endowment has experienced turnover in recent years.</media:description>
+      <media:credit>Charles Krupa/Associated Press</media:credit>
+      <description>The endowment&#x2019;s new chief, N.P. Narvekar, said the university&#x2019;s $37.1 billion fund had problems that would &#x201C;require time to overcome.&#x201D;</description>
+      <dc:creator>GERALDINE FABRIKANT</dc:creator>
+      <pubDate>Tue, 19 Sep 2017 22:40:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endowments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Harvard University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Narvekar, N P</category>
+    </item>
+    <item>
+      <title>Morning Agenda: Retailers (Not Named Amazon) Continue to Struggle</title>
+      <link>https://www.nytimes.com/2017/09/19/business/dealbook/toys-r-us-bankruptcy-retail.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/19/business/dealbook/toys-r-us-bankruptcy-retail.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/19/business/dealbook/toys-r-us-bankruptcy-retail.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/20/business/20db-newsletter/20db-newsletter-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Toys &#x201C;R&#x201D; Us faced a $400 million debt payment next year.</media:description>
+      <media:credit>Don Emmert/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The bankruptcy filing by Toys &#x201C;R&#x201D; Us shows just how much pain store operators are feeling &#x2014; and highlighted that more suffering is in store.</description>
+      <dc:creator>AMIE TSANG and MICHAEL J. de la MERCED</dc:creator>
+      <pubDate>Tue, 19 Sep 2017 10:32:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Toys &#x2018;R&#x2019; Us Files for Bankruptcy, Crippled by Competition and Debt</title>
+      <link>https://www.nytimes.com/2017/09/19/business/dealbook/toys-r-us-bankruptcy.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/19/business/dealbook/toys-r-us-bankruptcy.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/19/business/dealbook/toys-r-us-bankruptcy.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/20/world/20db-toys-1/20db-toys-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Toys &#x201C;R&#x201D; Us said it would continue to operate its stores &#x201C;as usual&#x201D; during bankruptcy proceedings.</media:description>
+      <media:credit>Adam Hunger/Reuters</media:credit>
+      <description>The toy store chain will get $3 billion in financing to continue paying employees and suppliers as it deals with Chapter 11.</description>
+      <dc:creator>MICHAEL CORKERY</dc:creator>
+      <pubDate>Tue, 19 Sep 2017 19:19:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Toys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Toys 'R' Us Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">KKR &amp; Co LP</category>
+    </item>
+    <item>
+      <title>DealBook: Fixing the &#x2018;Brain Damage&#x2019; Caused by the I.P.O. Process</title>
+      <link>https://www.nytimes.com/2017/09/18/business/dealbook/ipo-chamath-palihapitiya.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/18/business/dealbook/ipo-chamath-palihapitiya.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/18/business/dealbook/ipo-chamath-palihapitiya.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/19/business/19db-sorkin/19db-sorkin-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Eric Ries, an entrepreneur in San Francisco, is leading efforts to start a new Long-Term Stock Exchange, which has backing from venture-capital investors like Marc Andreessen, Reid Hoffman and Steve Case.</media:description>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <description>Entrepreneurs are exploring new ways to list companies on exchanges &#x2014; and placate stock-holding Silicon Valley employees &#x2014; while avoiding the pitfalls of initial public offerings.</description>
+      <dc:creator>ANDREW ROSS SORKIN</dc:creator>
+      <pubDate>Tue, 19 Sep 2017 00:22:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Palihapitiya, Chamath</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ries, Eric</category>
+    </item>
+    <item>
+      <title>Push for Nafta Overhaul May Fall Short, U.S. Negotiator Says</title>
+      <link>https://www.nytimes.com/2017/09/18/business/economy/nafta-negotiator.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/18/business/economy/nafta-negotiator.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/18/business/economy/nafta-negotiator.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/19/us/19dc-nafta/19dc-nafta-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>From left, Chrystia Freeland, Canada&#x2019;s foreign minister, Ildefonso Guajardo Villarreal, Mexico&#x2019;s economy secretary, and Robert Lighthizer, the United States trade representative, held the second round of negotiations on the North American Free Trade Agreement in Mexico City this month.</media:description>
+      <media:credit>Marco Ugarte/Associated Press</media:credit>
+      <description>A tight timeline and ambitious goals leave the Trump administration with a narrow path to success in talks on the North American Free Trade Agreement.</description>
+      <dc:creator>ANA SWANSON</dc:creator>
+      <pubDate>Mon, 18 Sep 2017 23:55:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">North American Free Trade Agreement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lighthizer, Robert E</category>
+    </item>
+    <item>
+      <title>Student Loan Creditor, Fined for &#x2018;False&#x2019; Lawsuits, Must Halt Collections</title>
+      <link>https://www.nytimes.com/2017/09/18/business/dealbook/student-loan-national-collegiate-trusts.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/18/business/dealbook/student-loan-national-collegiate-trusts.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/18/business/dealbook/student-loan-national-collegiate-trusts.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/19/business/19DB-STUDENTDEBT/19DB-STUDENTDEBT-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The National Collegiate Student Loan Trusts, which holds $12 billion in private student loans, agreed to pay nearly $19 million in penalties and borrower refunds.</media:description>
+      <media:credit>Joe Buglewicz for The New York Times</media:credit>
+      <description>Under a federal settlement, the National Collegiate Student Loan Trusts will refund millions to borrowers and temporarily suspend debt collections.</description>
+      <dc:creator>STACY COWLEY</dc:creator>
+      <pubDate>Mon, 18 Sep 2017 22:50:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Student Loans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Consumer Financial Protection Bureau</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Collegiate Student Loan Trusts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Debt Collection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+    </item>
+    <item>
+      <title>Northrop Grumman to Buy Orbital ATK for $7.8 Billion</title>
+      <link>https://www.nytimes.com/2017/09/18/business/dealbook/northrop-grumman-orbital-atk.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/18/business/dealbook/northrop-grumman-orbital-atk.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/18/business/dealbook/northrop-grumman-orbital-atk.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/19/business/19db-northrop/19db-northrop-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Under the terms of the deal announced on Monday, Northrop would pay $134.50 a share, a 22 percent premium to Orbital ATK&#x2019;s closing price on Friday.</media:description>
+      <media:credit>Craig Bailey/Florida Today, via Associated Press</media:credit>
+      <description>The proposed deal to purchase the maker of components for missiles and satellites adds to consolidation in the aerospace industry at a time of growing military budgets.</description>
+      <dc:creator>MICHAEL J. de la MERCED</dc:creator>
+      <pubDate>Mon, 18 Sep 2017 18:50:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Northrop Grumman Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Orbital ATK Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+    </item>
+    <item>
+      <title>White Collar Watch: Hack Will Lead to Little, if Any, Punishment for Equifax</title>
+      <link>https://www.nytimes.com/2017/09/20/business/equifax-hack-penalties.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/20/business/equifax-hack-penalties.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/20/business/equifax-hack-penalties.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/21/multimedia/21db-whitecollar/21db-whitecollar-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Because of the nature of the Equifax security breach and a regulatory quirk, executives at the credit-reporting agency are unlikely to face criminal charges.</media:description>
+      <media:credit>Kevin D. Liles for The New York Times</media:credit>
+      <description>The chances that Equifax or its executives see significant criminal or civil penalties are low, because of the nature of the attack and a quirk of regulation.</description>
+      <dc:creator>PETER J. HENNING</dc:creator>
+      <pubDate>Wed, 20 Sep 2017 21:33:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Equifax Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Securities and Commodities Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Consumer Financial Protection Bureau</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Trade Commission</category>
+    </item>
+    <item>
+      <title>Another View: What Jamie Dimon Is Missing About Bitcoin</title>
+      <link>https://www.nytimes.com/2017/09/18/business/dealbook/bitcoin-jamie-dimon.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/18/business/dealbook/bitcoin-jamie-dimon.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/18/business/dealbook/bitcoin-jamie-dimon.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/20/business/16db-bitcoinviews1/20DB-DIMON1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jamie Dimon, JPMorgan Chase&#x2019;s chief executive, recently argued that Bitcoin was a &#x201C;fraud.&#x201D;</media:description>
+      <media:credit>Eric Piermont/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>JPMorgan Chase&#x2019;s chief executive may be pessimistic about the worth of digital currencies. But an investor says, he isn&#x2019;t seeing the full picture.</description>
+      <dc:creator>JEREMY G. PHILIPS</dc:creator>
+      <pubDate>Mon, 18 Sep 2017 16:10:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bitcoin (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold Standard (Monetary)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dimon, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">JPMorgan Chase &amp; Company</category>
+    </item>
+    <item>
+      <title>DealBook: Business Goes to Washington</title>
+      <link>http://www.nytimes.com/spotlight/dealbook-special-section?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/spotlight/dealbook-special-section</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/spotlight/dealbook-special-section?partner=rss&amp;emc=rss"/>
+      <description>&#x201C;We are absolutely destroying these horrible regulations that have been placed on your heads.&#x201D; &#x2014; President Trump.</description>
+      <dc:creator/>
+      <pubDate>Wed, 04 Nov 2015 18:01:28 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -17,8 +17,11 @@ Diamond
 Other
 * Yahoo https://headlines.yahoo.co.jp/rss/list
 * Apple https://www.apple.com/jp/rss/
-* WSJ http://jp.wsj.com/sp/tdev/rsslist/
 * Engadget JP http://japanese.engadget.com/rss.xml
+* Reuters https://www.reuters.com/tools/rss
+* NYTimes 
+
+
 
 
 Info
