@@ -17,7 +17,7 @@
          then performs content based routing on the message using XPath -->
     <!-- <package>filsa.yomura.camel</package> -->
 
-    <routeBuilder ref="simpleRouteBuilder" />
+  <!--  <routeBuilder ref="simpleRouteBuilder" /> -->
     <routeBuilder ref="rss2pdfRouteBuilder" />
 
   </camelContext>

@@ -19,10 +19,10 @@ public class Rss2PdfRouteBuilder extends RouteBuilder {
     @Override
     public void configure() throws Exception {
 
-        from("rss:" + nytimesFile + "?splitEntries=false&consumer.delay=1000")
+        from("rss:" + asiaNikkeiFile + "?splitEntries=true&consumer.delay=1000")
 
                 .log("Item: ${body.getClass}")
-                .bean(rss2PdfBean, "printFeed")
+                .bean(rss2PdfBean, "logFeed")
 
                 //.to("log:yomuland?showHeaders=false&showExchangePattern=false&showBodyType=false")
                 //.to("pdf:create?fontSize=14")
