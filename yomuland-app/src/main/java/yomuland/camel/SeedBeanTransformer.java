@@ -29,10 +29,23 @@ public class SeedBeanTransformer {
 
         Tag tag = new Tag();
 
-        tag.setNameEn(row.get(0));
-        tag.setNameJa(row.get(1));
-        tag.setTagType(tagTypeRepo.getOne(Long.valueOf(row.get(2).trim()).longValue()));
+        tag.setNameEn(row.get(1));
+        tag.setNameJa(row.get(2));
+        tag.setTagType(tagTypeRepo.getOne(Long.valueOf(row.get(0).trim()).longValue()));
 
+        return tag;
+
+    }
+
+    public Tag tagSecurityMapper(List<String> row) {
+
+        Tag tag = new Tag();
+
+        tag.setTagType(tagTypeRepo.getOne(Long.valueOf(row.get(0).trim()).longValue()));
+        tag.setNameEn(row.get(1));
+        tag.setNameJa(row.get(2));
+        tag.setRefKey(row.get(3));
+        tag.setRefCode(row.get(4));
         return tag;
 
     }
