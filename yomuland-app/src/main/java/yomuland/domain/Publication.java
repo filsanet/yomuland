@@ -1,10 +1,26 @@
 package yomuland.domain;
 
+import org.hibernate.annotations.UpdateTimestamp;
+import org.springframework.data.annotation.CreatedDate;
+
 import javax.persistence.*;
 import java.util.Date;
 
+import static javax.persistence.TemporalType.TIMESTAMP;
+
 @Entity
 public class Publication {
+
+    public Publication(String title, Date publishDate, String publishingOrg, LanguageEnum language, StatusTypeEnum statusType, String creator) {
+        this.title = title;
+        this.publishDate = publishDate;
+        PublishingOrg = publishingOrg;
+        this.language = language;
+        this.statusType = statusType;
+        this.creator = creator;
+    }
+
+    Publication(){}
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
@@ -21,8 +37,15 @@ public class Publication {
 
     @Enumerated(EnumType.STRING)
     private StatusTypeEnum statusType;
+
+    @UpdateTimestamp
+    @Temporal(TIMESTAMP)
     private Date statusDate;
+
     private String creator;
+
+    @CreatedDate
+    @Temporal(TIMESTAMP)
     private Date createDate;
 
     public Long getId() {

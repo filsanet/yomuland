@@ -8,8 +8,8 @@
 2,"Foreign Exchange","為替",NULL,NULL
 2,"Rates","金利",NULL,NULL
 2,"Credit","クレジット",NULL,NULL
-3,"Japan", "日本",NULL,NULL
-3,"Asia ex-Japan", "アジア日本吹く",NULL,NULL
+3,"Japan","日本",NULL,NULL
+3,"Asia ex-Japan","アジア日本吹く",NULL,NULL
 3,"EMEA","欧州",NULL,NULL
 3,"Americas","アメリカ",NULL,NULL
 4,"Japan","日本",,
